@@ -15,3 +15,5 @@ The following is the materials I'm studying:
   - [Notebooks](https://github.com/udlbook/udlbook/) (I'm adding what I've solved)
 - Neural Networks: Zero to Hero by Andrej Karpathy. https://karpathy.ai/zero-to-hero.html
 - Zero to Mastery Learn PyTorch for Deep Learning by Daniel Bourke. https://www.learnpytorch.io/
+- Winder, P. (2021). Reinforcement learning: Industrial applications of intelligent agents (First edition). O’Reilly Media.
+  - https://rl-book.com/supplementary_materials/
